@@ -12,7 +12,7 @@ export default class demo360 extends React.Component {
       <View style={styles.panel}>
         <View style={styles.greetingBox}>
           <Text style={styles.greeting}>
-            Welcome to Latvia
+            Welcome to React360
           </Text>
         </View>
       </View>
